@@ -1,0 +1,195 @@
+Argomento scelto: Videogames
+
+1. Primo dataset strutturato "Genshin Impact character data"
+https://www.kaggle.com/datasets/sophiahealy/genshin-impact-character-data
+
+Gli identificativi sono i 63 nomi dei personaggi del gioco:
+
+Albedo
+Alhaitham
+Aloy
+Amber
+Arataki Itto
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Chongyun
+Collei
+Cyno
+Dainsleif
+Dehya
+Diluc
+Diona
+Dori
+Eula
+Fischl
+Ganyu
+Gorou
+Hu Tao
+Jean
+Kaedehara Kazuha
+Kaeya
+Kamisato Ayaka
+Kamisato Ayato
+Keqing
+Klee
+Kujou Sara
+Kuki Shinobu
+Lisa
+Mona
+Nahida
+Nilou
+Ningguang
+Noelle
+Qiqi
+Raiden Shogun
+Razor
+Rosaria
+Sangonomiya Kokomi
+Sayu
+Shenhe
+Shikanoin Heizou
+Sucrose
+Tartaglia
+Thoma
+Tighnari
+Traveler (Aether)
+Traveler (Lumine)
+Venti
+Xiangling
+Xiao
+Xingqiu
+Xinyan
+Yae Miko
+Yanfei
+Yelan
+Yoimiya
+Yun Jin
+Zhongli
+
+
+
+Gli attributi sono i dati contenuti nelle altre 70 colonne:
+
+playable
+rarity
+region
+vision
+weapon_type
+model
+constellation
+birthday
+special_dish
+affiliation
+voice_eng
+voice_cn
+voice_jp
+voice_kr
+release_date
+ascension
+ascension_specialty
+ascension_talent
+ascension_boss
+talent_book
+talent_weekly
+hp_90_90
+atk_90_90
+def_90_90
+hp_80_90
+atk_80_90
+def_80_90
+hp_80_80
+atk_80_80
+def_80_80
+hp_70_80
+atk_70_80
+def_70_80
+hp_70_70
+atk_70_70
+def_70_70
+hp_60_70
+atk_60_70
+def_60_70
+hp_60_60
+atk_60_60
+def_60_60
+hp_50_60
+atk_50_60
+def_50_60
+hp_50_50
+atk_50_50
+def_50_50
+hp_40_50
+atk_40_50
+def_40_50
+hp_40_40
+atk_40_40
+def_40_40
+hp_20_40
+atk_20_40
+def_20_40
+hp_20_20
+atk_20_20
+def_20_20
+hp_1_20
+atk_1_20
+def_1_20
+spsecial_0
+special_1
+special_2
+special_3
+special_4
+special_5
+special_6
+
+2. Video Games Sales Dataset
+
+Gli identificativi sono i nomi dei videogames
+https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
+
+Gli attributi sono:
+
+1. Anno
+2. Genere
+3. Casa produttrice
+
+
+
+
+3. Nintendo Games Dataset
+https://www.kaggle.com/datasets/mrmorj/nintendo-games-dataset
+
+L'identificativo è il titolo del gioco
+
+Gli attributi sono:
+
+platform
+release date
+details page link
+esrb rating
+developers
+genres
+
+
+
+
+
+4. Dataset non strutturato
+https://www.kaggle.com/datasets/spronkoid/genshin-impact-fanart-w-tags-danbooru-safebooru
+
+un insieme di link che rimandano a fan art per il videogioco Genshin Impact.
+
+Genshin Impact è un gacha game in cui si possono acquisire, attraverso crediti guadagnati in-game o acquistati, dei personaggi che vengono proposti solo per periodi limitati di tempo.
+
+Si potrebbe identificare quali sono i personaggi riprodotti più spesso dai fan per capire quali personaggi a tempo limitato proporre con più frequenza per incentivare gli utenti del gioco all'acquisto di crediti.
+
+
+
+
+5. Twich stream data
+https://www.dataandsons.com/categories/machine-learning/twitch-stream-data
+
+- per un contente creator potrebbe essere utile un'analisi riguardo a quali giochi/contenuti hanno prodotto più visite, visualizzazioni, permanenza più lunga sul canale
+- per una casa di produzione di videogames potrebbe essere utile per capire quali giochi/contenuti sono più interessanti per gli utenti in modo da pilotare progetti di sviluppo successivi
